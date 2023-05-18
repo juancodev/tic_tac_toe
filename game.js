@@ -33,5 +33,5 @@ function checkLine(c1, c2, c3) {
 }
 
 function showWinner(player) {
-  document.querySelector('#result').innerHTML = player + 'win';
+  document.querySelector('#result').innerHTML = player + ' win 👏';
 }
